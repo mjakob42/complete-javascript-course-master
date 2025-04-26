@@ -170,10 +170,12 @@ lines');
 console.log(`String
 multiple
 lines`);
+*/
 
 
 ////////////////////////////////////
 // Taking Decisions: if / else Statements
+/*
 const age = 15;
 
 if (age >= 18) {
